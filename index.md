@@ -1,3 +1,12 @@
+`
+<script type="text/javascript">
+window.mcwcSettings = {
+  serviceName: 'widgettest01.mc-int.maaiiconnect.com',
+};
+!function(e,t,c){var n,s=e.getElementsByTagName(t)[0];e.getElementById(c)||(n=e.createElement(t),n.id=c,n.defer=!0,n.src="https://mcwc.mc-int.maaiiconnect.com/mcwc/mcwc.js",s.parentNode.insertBefore(n,s))}(document,"script", "mcwc-sdk");
+</script>
+`
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/DoubleBreak/m800widgettest/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
